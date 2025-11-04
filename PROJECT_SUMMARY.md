@@ -39,20 +39,23 @@
 
 ### 内容亮点
 
-**🎯 求职指南系列**（已完成）：
+**🎯 求职指南系列**（5篇，已完成）：
 - `docs/04-interview/06-career-transition.md`（949行）- 转行指南
 - `docs/04-interview/07-job-hunting-guide.md`（191行）- 秋招攻略
+- `docs/04-interview/08-salary-negotiation.md`（259行）- 谈薪指南
+- `docs/04-interview/09-hr-interview.md`（394行）- HR面试
+- `docs/04-interview/10-mindset.md`（104行）- 心态调整
 
-**📚 学习路线系列**（已完成）：
+**📚 学习路线系列**（2篇，已完成）：
 - `docs/learning-roadmap-algorithm.md` - 算法岗每日计划
 - `docs/learning-roadmap-development.md` - 开发岗每日计划
 
 **🛠️ 技术教程系列**（1篇）：
 - `docs/02-tech-stack/14-context-engineering.md`（779行）- 上下文工程
 
-**📂 资源文档系列**（模块化）：
-- `resources/agent/` - Agent 方向资源
-- `resources/rag/` - RAG 方向资源
+**📂 资源文档系列**（模块化，8个文件）：
+- `resources/agent/` - Agent 方向资源（3个文件）
+- `resources/rag/` - RAG 方向资源（3个文件）
 - `resources/frameworks.md` - 框架总览
 - `resources/tools.md` - 工具箱
 

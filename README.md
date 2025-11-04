@@ -866,6 +866,11 @@ AgentGuide 提供 **n 个简历级实战项目**，每个项目都提供：
 - [x] [⭐ 转行大模型热门方向准备指南](./docs/04-interview/06-career-transition.md)
 - [x] [⭐ 如何准备大模型秋招完整攻略](./docs/04-interview/07-job-hunting-guide.md)
 
+#### 4.4 面试软技能（新增⭐）
+- [x] [⭐ 校招生谈薪实用指南](./docs/04-interview/08-salary-negotiation.md) - 3大原则、话术模板
+- [x] [⭐ HR面试完全攻略](./docs/04-interview/09-hr-interview.md) - 10大高频问题应对
+- [x] [⭐ 秋招心态调整指南](./docs/04-interview/10-mindset.md) - 保持好心态拿Offer
+
 #### 4.3 核心资源精选（按方向分类）
 
 > **📌 只推荐面试会考、项目会用的核心资源！**
