@@ -67,6 +67,70 @@
 - **面试求职**：算法岗 vs 开发岗、面试题库、简历优化、大厂面经
 - **实战项目**：论文检索Agent、旅行规划Multi-Agent、Web Agent
 
+### 🗺️ AgentGuide 在 LLM 开源生态中的定位
+
+**我们覆盖 AI Agent 开发的完整技术栈** - 从训练到应用：
+
+<div align="center">
+<img src="https://youke1.picui.cn/s1/2025/11/04/6909c2db15898.png" alt="LLM开源生态图谱" width="100%">
+<sub>图片来源：<a href="https://github.com/Langchainai/llm-oss-landscape">LLM Open Source Landscape</a></sub>
+</div>
+
+**📌 AgentGuide 涵盖的核心技术栈**：
+
+<table>
+<tr>
+<td width="33%">
+
+**🤖 AI Agent 层**（核心）
+- ✅ **Agent 框架**
+  - LangGraph、LangChain
+  - AutoGen、CrewAI
+  - Swarm、CAMEL-AI
+- ✅ **Agent 工作流**
+  - Dify、n8n、Flowise
+- ✅ **Multi-Agent 协作**
+- ✅ **Memory & Tool Use**
+
+</td>
+<td width="33%">
+
+**🔧 AI Infra 层**（算法岗必备）
+- ✅ **模型训练**
+  - PyTorch、DeepSpeed
+  - LlaMA-Factory
+- ✅ **微调（Fine-tuning）**
+  - LoRA、QLoRA、SFT
+  - Function Call 微调
+- ✅ **强化学习（RLHF）**
+  - PPO、DPO、GRPO
+  - Reward Model 训练
+
+</td>
+<td width="33%">
+
+**📊 AI Data 层**（开发岗常用）
+- ✅ **向量数据库**
+  - Milvus、Chroma
+  - Qdrant、FAISS
+- ✅ **数据处理**
+  - 文档解析、OCR
+  - Embedding 模型
+- ✅ **应用框架**
+  - FastAPI、Streamlit
+  - Gradio
+
+</td>
+</tr>
+</table>
+
+> **💡 核心定位**：  
+> **算法岗**：学习微调、强化学习、算法优化（覆盖 Agent + Infra 层）  
+> **开发岗**：学习框架使用、系统搭建、工程实践（覆盖 Agent + Data 层）  
+> **通吃型**：完整技术栈，算法和开发都能投（覆盖全部）
+
+---
+
 ### 🎯 适合人群
 
 **技术背景**：
@@ -81,7 +145,7 @@
 **学习需求**：
 - ✅ LangChain 学习 | LangGraph 教程 | AutoGen 实战
 - ✅ RAG 开发 | 向量数据库 | Agent Memory
-- ✅ 大模型面试 | 算法岗面试 | 开发岗面试
+- ✅ 大模型面试 | 算法岗面试 | 开发岗面试 | HR面试 | 谈薪技巧
 
 
 ### 🌟 AgentGuide 的 6 大核心价值
