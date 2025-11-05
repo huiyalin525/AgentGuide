@@ -464,13 +464,13 @@ Abstract → Introduction → Method（重点！）→ Experiments → Conclusio
 
 ## 📝 相关文档
 
-- [Agent Memory 工具对比](./memory.md) - 实用工具推荐
-- [Agent Memory 技术教程](../../docs/02-tech-stack/15-agent-memory.md) - 从原理到实战
-- [返回 Agent 资源总览](./README.md)
+- [Agent Memory 工具对比](memory.md) - 实用工具推荐
+- [Agent Memory 技术教程](15-agent-memory.md) - 从原理到实战
+- [返回 Agent 资源总览](AgentGuide/resources/agent/README.md)
 
 ---
 
-**👉 返回主文档**：[AgentGuide README](../../README.md)
+**👉 返回主文档**：[AgentGuide README](AgentGuide/README.md)
 
 
 
