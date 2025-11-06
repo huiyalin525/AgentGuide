@@ -1040,6 +1040,20 @@ AgentGuide 提供 **n 个简历级实战项目**，每个项目都提供：
 
 </details>
 
+<details>
+<summary><b>📂 项目四：优质 Agent 实战开源项目、Workflow 项目与 Agent 项目集合</b></summary>
+
+<br/>
+
+**项目核心**：整理分享一些优质的 Agent 实战开源项目、Workflow 项目与 Agent 项目集合
+
+**包含内容**：
+- [优质 Agent 实战开源项目](./projects/04-open-source-projects/README.md)
+- [优质 Workflow 项目](./projects/05-workflow-projects/README.md)
+- [优质 Agent 项目集合](./projects/06-project-collections/README.md)
+
+</details>
+
 ---
 
 ## 💼 第六步：面试准备与 Offer 冲刺
