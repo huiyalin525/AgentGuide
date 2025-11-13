@@ -6,7 +6,7 @@
 
 ## 🎯 **一、核心概念入门（建立框架）**
 
-### 1. **The New Skill in AI is Not Prompting, It's Context Engineering**
+	### 1. **The New Skill in AI is Not Prompting, It's Context Engineering**
 
 - **作者**：Philipp Schmid（Google DeepMind 高级AI工程师）
 - **链接**：https://www.philschmid.de/context-engineering
