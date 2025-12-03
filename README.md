@@ -1861,3 +1861,9 @@ python quickstart_rag_agent.py
     </p>
     <br/>
 </div>
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=adongwanai/AgentGuide&type=Date)](https://star-history.com/#adongwanai/AgentGuide&Date)
