@@ -86,7 +86,7 @@
 **我们覆盖 AI Agent 开发的完整技术栈** - 从模型微调到应用部署的全流程：
 
 <div align="center">
-<img src="https://youke1.picui.cn/s1/2025/11/04/6909c2db15898.png" alt="LLM开源生态图谱" width="100%">
+<img src="https://raw.githubusercontent.com/adongwanai/Awesome-Awesome-LLMs/main/20251210154458267.png" alt="LLM开源生态图谱" width="100%">
 <sub>图片来源：<a href="https://github.com/Langchainai/llm-oss-landscape">LLM Open Source Landscape</a></sub>
 </div>
 
