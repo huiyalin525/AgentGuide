@@ -1584,13 +1584,13 @@ AgentGuide 提供 **n 个简历级实战项目**，每个项目都提供：
 > 💡 **学习目标**：系统准备面试，提升 Offer 成功率  
 > 📝 **两条线不同的面试策略**：算法岗讲创新，开发岗讲价值
 
-#### 📚 完整面试题库（200+题）🔥 全面升级
+#### 📚 完整面试题库（300+题）🔥 全面升级
 
 > **🎯 题库特色**：
 > - ✅ 完整覆盖 LLM/VLM/RLHF/RAG/Agent 全技术栈
-> - ✅ 包含美团、字节、阿里等一线大厂真题
-> - ✅ 难度分级 + 公司来源标注
-> - ✅ 区分算法岗/开发岗重点
+> - ✅ 包含美团、字节、阿里、DeepSeek等一线大厂真题
+> - ✅ 难度分级 + 公司来源标注 + 考点分析
+> - ✅ 区分算法岗/开发岗重点，覆盖最新技术（DeepSeek-V3/R1）
 
 **📖 核心通用题库（两个岗位都需要）**
 
@@ -1626,9 +1626,11 @@ AgentGuide 提供 **n 个简历级实战项目**，每个项目都提供：
 
 **编程实战（必备）**
 - [x] [💻 手撕代码题](./docs/04-interview/04-coding-questions.md)
-  - Self-Attention、LoRA、ReAct等核心算法实现
-  - RAG系统、Agent框架等完整系统
-  - **总计**: **23题**
+  - LLM基础：Self-Attention、MHA、MQA、RoPE等 **11题** 🆕
+  - Agent核心：ReAct、Tool Registry、Memory系统
+  - RAG系统：文档切块、混合检索、Reranker
+  - 推理优化：KV Cache、Beam Search、LoRA
+  - **总计**: **34题** ⬆️ 新增11道Transformer核心组件手撕题
 
 </td>
 </tr>
