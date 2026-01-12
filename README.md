@@ -804,7 +804,7 @@ AgentGuide 提供 **n 个简历级实战项目**，每个项目都提供：
 | 模块9：上下文工程           | Write/Select/Compress/Isolate四大策略   |     |
 | 模块10：智能体通信标准与协议     | MCP、A2A、ANP协议详解                     |     |
 | 模块11：模型微调与强化学习      | SFT、LoRA、PPO、DPO、GRPO算法应用           |     |
-| 模块12：性能评估与效果量化      | 评估维度、测试框架、自定义评估方法                   |     |
+| 模块12：性能评估与效果量化      | 评估维度、测试框架、自定义评估方法、🔥Anthropic评估完全指南   |  ✅  |
 
 
 ---
@@ -1107,8 +1107,18 @@ AgentGuide 提供 **n 个简历级实战项目**，每个项目都提供：
 - 使用 Ragas 自动评估
 - 人工评估与 LLM-as-Judge
 
-📖 [评估指南：科学评估 Agent](./docs/01-theory/09-evaluation-metrics.md)  
+**🔥 新增：AI Agent 评估完全指南**
+- 💡 **Anthropic 万字评估指南译文**
+- 🎯 三种评分器正确打开方式 (Code/Model/Human-based)
+- 🏗️ 四类 Agent 评估秘籍 (编程/对话/研究/计算机操作)
+- 🎲 驯服非确定性：pass@k vs pass^k
+- 🗺️ 从零开始的八步路线图
+- 🧀 瑞士奶酪组合拳评估法
+- 🛠️ 工具选择避坑指南
+
+📖 [评估指南：科学评估 Agent](./docs/01-theory/09-evaluation-metrics.md)
 📖 [AgentBench 详解](./docs/01-theory/08-agent-bench.md)
+📖 [🔥 **AI Agent 评估完全指南** (Anthropic官方万字长文)](./docs/02-tech-stack/agent-evaluation-complete-guide.md) ⭐ **必读**
 
 </td>
 </tr>
